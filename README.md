@@ -19,7 +19,7 @@ I'm Nicolò, a Master's Student in Computer Science at the University of Florenc
 
 What I love most about Sofware Engineering is software architecture and the system design. I am passionate about building software that is not only functional but also well-structured and maintainable.
 
-During my university studies, I've explored different topics, such as the developement of machine learning models, web and distributed applications.
+During my university studies, I've explored different topics, such as the development of machine learning models, web and distributed applications.
 
 My main tech stack is Angular, Typescript, SpringBoot, Java and Docker. My favorite tools are VSCode, Eclipse, Kitty and Obsidian.
 
