@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm Nicolò, a Master's Student in Computer Science at the University of Florence. 
 
-What I love most about Sofware Engineering is software architecture and the system design. I am passionate about building software that is not only functional but also well-structured and maintainable.
+What I love most about Software Engineering is software architecture and the system design. I am passionate about building software that is not only functional but also well-structured and maintainable.
 
 During my university studies, I've explored different topics, such as the development of machine learning models, web and distributed applications.
 
