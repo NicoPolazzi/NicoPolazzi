@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **NicoPolazzi/NicoPolazzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,16 +15,27 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Nicolò, a Master's Student in Computer Science at the University of Florence. 
+## Hi there 👋
 
-What I love most about Software Engineering is software architecture and the system design. I am passionate about building software that is not only functional but also well-structured and maintainable.
+I'm Nicolò, a software engineer and recent MSc graduate based in Florence, Italy.
 
-During my university studies, I've explored different topics, such as the development of machine learning models, web and distributed applications.
+The areas I'm most drawn to are backend systems, distributed architectures, 
+and observability. I love to understand what happens when services have to 
+coordinate under real load, and how you actually know whether they're working. 
+Test-Driven Development is a habit I built during my studies and one I plan 
+to keep.
 
-My main tech stack is Angular, Typescript, SpringBoot, Java and Docker. My favorite tools are VSCode, Eclipse, Kitty and Obsidian.
+#### Stack and tools
 
-Fun Facts:
+- **Languages:** Java, Python, Go
+- **Backend:** Spring Boot, JPA/Hibernate, PostgreSQL, MongoDB
+- **Cloud-native:** Kubernetes, Istio, Docker, Prometheus
+- **Testing:** JUnit, Mockito, Testcontainers, PIT mutation testing
+
+#### Fun Facts:
 
 * I love brewing specialty coffee with V60
 * Souls-like is my favorite videogame genre
 * Hobbies: books, videogame, gym
+
+I'm open to junior backend / SRE / platform roles in Florence and remote-EU.
